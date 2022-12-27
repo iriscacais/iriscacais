@@ -14,4 +14,4 @@ Durante o curso desenvolvi exercícios e projetos que podem ser encontrados aqui
 
 ### Contato 📫 
 <a href="https://www.linkedin.com/in/iriscacais/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mandeparairis@gmail.com"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:mandeparairis@gmail.com"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
