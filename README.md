@@ -4,7 +4,7 @@ Meu nome é Iris e sou estudante de desenvolvimento web da Trybe - escola de pro
 
 Durante o curso desenvolvi exercícios e projetos que podem ser encontrados aqui no Github! :pencil:
 
-- 🌱 Atualmente estou cursando o módulo de front-end e aprendendo a ferramenta React e o uso de hooks;
+- 🌱 Atualmente estou cursando o módulo de back-end e aprendendo SQL, NODE e Arquitetura de Software;
 
 - 🔭 Estou estudando desenvolvimento web para uma transição de carreira;
 
