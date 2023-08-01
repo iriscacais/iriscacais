@@ -1,8 +1,8 @@
 ### Olá, 👋
 
-Meu nome é Iris e sou estudante de desenvolvimento web da Trybe - escola de programação.
+Meu nome é Iris e sou estudante e desenvolvedora front-end.
 
-Durante o curso desenvolvi exercícios e projetos que podem ser encontrados aqui no Github! :pencil:
+Confira meus projetos e estudos aqui no github! :pencil
 
 - 🌱 estudando e desenvolvendo front-end;
 
