@@ -2,7 +2,7 @@
 
 Meu nome é Iris e sou estudante e desenvolvedora front-end.
 
-Confira meus projetos e estudos aqui no github! :pencil
+Confira meus projetos e estudos aqui no github! :pencil:
 
 - 🌱 estudando e desenvolvendo front-end;
 
