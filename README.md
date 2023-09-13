@@ -24,4 +24,6 @@ Confira meus projetos e estudos aqui no github! :pencil:
 <a href="mailto:mandeparairis@gmail.com"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ### GitHub Stats
-![Iris Cacais's GitHub stats](https://github-readme-stats.vercel.app/api?username=iriscacais&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iriscacais&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Iris Cacais's GitHub stats](https://github-readme-stats.vercel.app/api?username=iriscacais&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iriscacais)](https://github.com/iriscacais/github-readme-stats)
+
