@@ -1,6 +1,6 @@
 ### Olá, 👋
 
-Meu nome é Iris e sou estudante e desenvolvedora front-end.
+Meu nome é Iris e sou desenvolvedora front end.
 
 Confira meus projetos e estudos aqui no github! :pencil:
 
